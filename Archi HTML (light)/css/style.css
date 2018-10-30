@@ -4961,6 +4961,11 @@ display:table;
 	
 	
 	@media only screen and (max-width: 992px) {
+	.space-footer{
+	padding-bottom: 120px;
+
+	}
+
 		
 	#menu-btn{
 	display:block;
@@ -5612,4 +5617,5 @@ display:table;
 		width: 0%;
 		text-align: center;
 	}
+	
 	}
