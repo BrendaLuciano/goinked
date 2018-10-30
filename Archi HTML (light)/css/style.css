@@ -3424,10 +3424,17 @@ outline: none;
 }
 
 p.lead,
-p.intro{
+.intro{
+	font-size:12px;
+	font-weight:500;
+	line-height:1.7em;
+	color: white 
+	}
+.intro2{
 	font-size:16px;
 	font-weight:500;
 	line-height:1.7em;
+	color: white 
 }
 
 .panel-group{
@@ -5617,5 +5624,5 @@ display:table;
 		width: 0%;
 		text-align: center;
 	}
-	
+
 	}
