@@ -1497,27 +1497,27 @@ border:solid 1px #ddd;
 	a.btn-slider{
 	font-size:13px;
 	font-weight:bold;
-	color:#fff;
+	color:#f35252;
 	letter-spacing:3px;
 	line-height:normal;
 	text-decoration:none;
 	text-transform:uppercase;
-	border:solid 2px #fff;
+	border:solid 2px #f35252;
 	padding:10px 30px 10px 30px;
 	}
 	a.btn-slider:hover{
 	color:#222;
-	background:#fff;
-	border-color:#000;
+	background:white;
+	border-color:#fff;
 	border:solid 2px #fff;
 	}
 	a.btn-slider:hover:after{
-	color:#222 ;
+	color:#f35252 ;
 	}
 	
 	a.btn-custom{
 	font-size:13px;
-	color:#222;
+	color:#f35252;
 	letter-spacing:3px;
 	line-height:normal;
 	text-decoration:none;
@@ -4204,11 +4204,11 @@ a:hover, a:active, a:focus, img{
 .padding60{padding:70px !important;}
 
 .de_light a{
-color:#888;
+color:#f35252;
 }
 
 .de_light a:hover{
-color:#555;
+color:#f35252 !important;
 }
 
 #services-list{
@@ -5580,6 +5580,12 @@ display:table;
 	
 	}
 	
+	.button-text{
+		background-color: 'red';
+		width: 400px;
+		
+		
+	}
 	
 	/* -------------------------------------------------- 
 	design for 320px
@@ -5601,5 +5607,9 @@ display:table;
 	
 	.grid-item .pf_title{
 		display:none;
+	}
+	.logo-menu{
+		width: 0%;
+		text-align: center;
 	}
 	}
