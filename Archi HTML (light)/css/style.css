@@ -1757,7 +1757,7 @@ border:solid 1px #ddd;
 	font-size:72px;
 	}
 	h1.title-3 strong{
-	font-family:"Allura";
+	font-family:"Montserrat";
 	text-transform:none;
 	letter-spacing:0;
 	font-weight:normal;
@@ -1813,7 +1813,7 @@ border:solid 1px #ddd;
 	}
 	
 	h3.s2 span{
-		font-family:"Allura";
+		font-family:"Montserrat" !important;
 		text-transform:none;
 		letter-spacing:0;
 		font-size:40px;
@@ -1825,16 +1825,16 @@ border:solid 1px #ddd;
 	}
 	
 	.typing-wrap{
-	font-family:"Dosis";
+	font-family:"Montserrat";
 	font-size:30px;
 	margin:0;
 	line-height:60px;
 	}
 	
 	span.teaser{
-	font-family:"Georgia";
+	font-family:"Montserrat";
 	font-style:italic;
-	font-size:18px;
+	font-size:20px;
 	}
 	
 	.text-light{
