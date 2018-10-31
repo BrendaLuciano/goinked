@@ -4230,6 +4230,10 @@ font-style: normal;
 	color: #fff !important;
 }
 
+.de_light section#download a.btn{
+	color: #fff !important;
+}
+
 .de_light a:hover{
 color:white !important;
 }
