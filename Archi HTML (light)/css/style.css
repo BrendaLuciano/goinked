@@ -4226,6 +4226,10 @@ font-style: normal;
 	color:#f35252 !important;
 }
 
+.de_light section#view-all-projects a.btn{
+	color: #fff !important;
+}
+
 .de_light a:hover{
 color:white !important;
 }
