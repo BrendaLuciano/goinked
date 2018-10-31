@@ -1375,7 +1375,7 @@ border:solid 1px #ddd;
 	/* button */
 	/* ------------------------------ */
 	.btn-line, a.btn-line{
-	border:solid 1px #222;
+	border:solid 1px #fff;
 	color:#fff;
 	font-weight:500;
 	font-size:12px;
@@ -1412,8 +1412,8 @@ border:solid 1px #ddd;
 
 	.btn-line:hover, a.btn-line:hover{
 	background:#fff;
-	color:#111 !important;
-	border-color:#fff;
+	color:#db2300 !important;
+	border-color:#db2300;
 	}
 	
 	.btn-line:after,  a.btn-line:after{
@@ -1425,13 +1425,13 @@ border:solid 1px #ddd;
 	}
 	
 	.btn-line:hover:after, a.btn-line:hover:after, a.btn-line.hover:after{
-	color:#111 !important;
+	color:#db2300 !important;
 	}
 	
 	a.btn-text{
 	text-decoration:none;
 	display:inline-block;
-	color:#111 !important;
+	color:#db2300 !important;
 	font-weight:600;
 	padding:0;
 	}
@@ -1453,7 +1453,7 @@ border:solid 1px #ddd;
 	line-height:normal;
 	font-weight:bold;
 	text-transform:uppercase;
-	border:solid 1px #fff;
+	border:solid 1px #db2300;
 	padding:10px 30px 10px 30px;
 	}
 	a.btn-big:after{
@@ -1477,8 +1477,8 @@ border:solid 1px #ddd;
 	}
 	
 	a.btn-line-black, .de_light a.btn-line-black{
-	border:solid 1px #111;
-	color:#111;
+	border:solid 1px #fff;
+	color:#fff;
 	border-radius:0;
 	-moz-border-radius:0;
 	-webkit-border-radius:0;
@@ -1486,13 +1486,14 @@ border:solid 1px #ddd;
 	}
 	
 	a.btn-line-black:hover{
-	background:#111;
+	background:#db2300;
 	color:#fff;
 	}
 	
 	.de_light a.btn-line-black:hover{
-	background:#111;
+	background:#db2300;
 	color:#fff;
+	border: #db2300;
 	}
 	
 	.btn-fullwidth{
@@ -1511,13 +1512,13 @@ border:solid 1px #ddd;
 	padding:10px 30px 10px 30px;
 	}
 	a.btn-slider:hover{
-	color:#f35252 !important;
+	color:#fff !important;
 	background:#f35252;
 	border-color:#fff;
 	border:solid 2px #fff;
 	}
 	a.btn-slider:hover:after{
-	color:#f35252 ;
+	color:#fff ;
 	}
 	
 	a.btn-custom{
@@ -4217,7 +4218,7 @@ a:hover, a:active, a:focus, img{
 .padding60{padding:70px !important;}
 
 .de_light a{
-color:#f35252 !important;
+color:#fff !important;
 font-style: normal;
 }
 
@@ -4258,7 +4259,7 @@ text-decoration:none;
 }
 
 #services-list li a:hover{
-color:#111;
+color:#f35252 !important;
 }
 
 .pic-services img{
@@ -4266,7 +4267,7 @@ margin-bottom:30px;
 }
 
 #services-list li.active a{
-color:#111;
+color:#f35252 !important;
 }
 
 .project-images img{
@@ -4312,7 +4313,7 @@ color:rgba(0,0,0,.5) !important;
 }
 
 .de_light .mfp-close:hover{
-color:rgba(0,0,0,1) !important;
+color:#f35252 !important;
 }
 
 .nav-prev:before,.nav-next:before, .nav-exit:before{
