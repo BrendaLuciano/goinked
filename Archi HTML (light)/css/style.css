@@ -1514,8 +1514,8 @@ border:solid 1px #ddd;
 	a.btn-slider:hover{
 	color:#fff !important;
 	background:#f35252;
-	border-color:#fff;
-	border:solid 2px #fff;
+	border-color:#f35252;
+	border:solid 2px #f35252;
 	}
 	a.btn-slider:hover:after{
 	color:#fff ;
