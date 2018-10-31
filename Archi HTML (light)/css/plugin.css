@@ -75,7 +75,7 @@ border: solid 1px #555;
 }
 
 #filters a:hover {
-	background:#111;
+    background:#db2300;
 }
 
 #filters a.selected {
