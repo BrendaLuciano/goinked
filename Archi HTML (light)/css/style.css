@@ -63,7 +63,7 @@ body {
 }
 
 body.de_light{
-	color:#606060;
+	color:#f35252;
 }
 
 #wrapper{
@@ -4619,7 +4619,7 @@ font-size:20px;
 	outline:none;
 }
 #back-to-top:hover {
-    background: #111;
+    background: #db2300;
 }
 #back-to-top.show {
     opacity: 1;
