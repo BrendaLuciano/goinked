@@ -403,7 +403,7 @@ overflow:visible;
 	color:#fff;
 	}
 	
-	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color:#FAB702; }
+	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color:#f35252; }
 	
 	#mainmenu li:last-child a:after{display:none;}
 	
