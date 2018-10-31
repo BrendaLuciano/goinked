@@ -48,7 +48,7 @@
 /* body */
 /* ================================================== */
 html{
-background:#000000 !important;
+background:wheat !important;
 }
 
 body {
@@ -89,7 +89,7 @@ overflow:visible;
 	-ms-transition: height 0.3s;
 	-o-transition: height 0.3s;
 	transition: height 0.3s;
-	background:#18191b;
+	background: white !important;
 	border-bottom:solid 1px rgba(0,0,0,0.0);
 	}
 	
@@ -130,7 +130,7 @@ overflow:visible;
 	}
 	header.transparent.header-light .info,
 	header.transparent.header-light .info .social i{
-	color:#fff;
+	color:#f35252 !important;
 	}
 	
 	header.header-bg{
@@ -403,7 +403,7 @@ overflow:visible;
 	color:#fff;
 	}
 	
-	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color:#f35252; }
+	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color:#191923 !important; }
 	
 	#mainmenu li:last-child a:after{display:none;}
 	
@@ -713,6 +713,11 @@ overflow:visible;
 	background:#fff;
 	}
 	
+	.section-background1{
+		width: 100%;
+		height: auto;
+	}
+
 	.section-fixed {
 	position:fixed;
 	width:100%;
@@ -1335,7 +1340,7 @@ border:solid 1px #ddd;
 	.small-border{
 	height:1px;
 	width:120px;
-	background:#ccc;
+	background:#f35252;
 	display:block;
 	margin:0 auto;
 	margin-top:20px;
