@@ -89,7 +89,7 @@ overflow:visible;
 	-ms-transition: height 0.3s;
 	-o-transition: height 0.3s;
 	transition: height 0.3s;
-	background: white !important;
+	background: black !important;
 	border-bottom:solid 1px rgba(0,0,0,0.0);
 	}
 	
@@ -403,7 +403,7 @@ overflow:visible;
 	color:#fff;
 	}
 	
-	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color:#191923 !important; }
+	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color: white !important; }
 	
 	#mainmenu li:last-child a:after{display:none;}
 	
@@ -4217,11 +4217,12 @@ a:hover, a:active, a:focus, img{
 .padding60{padding:70px !important;}
 
 .de_light a{
-color:#f35252;
+color:#f35252 !important;
+font-style: normal;
 }
 
 .de_light a:hover{
-color:#f35252 !important;
+color:white !important;
 }
 
 #services-list{
