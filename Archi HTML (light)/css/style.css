@@ -1741,7 +1741,9 @@ border:solid 1px #ddd;
 	}
 	h1.title{
 	font-size:64px;
-	letter-spacing:10px;
+	letter-spacing:5px;
+	font-family: 'Montserrat',Arial, Helvetica, sans-serif !important;
+	margin-left: 90px !important;
 	}
 	h1.title.s2{
 	font-size:64px;
