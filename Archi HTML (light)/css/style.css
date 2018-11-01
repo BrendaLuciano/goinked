@@ -1803,6 +1803,10 @@ border:solid 1px #ddd;
 	.de_light .text-light h2{
 	color:#fff;
 	}
+	.de_light .text-light h8{
+	color:#f35252;
+	font-size: 26px !important;
+	}
 	h3.title {
 	border-bottom: solid 1px #ddd;
 	margin-bottom: 20px;
@@ -3460,7 +3464,7 @@ p.lead,
 	font-size:18px;
 	font-weight:500;
 	line-height:1.7em;
-	color: white 
+	color: #f35252; 
 }
 
 .panel-group{
