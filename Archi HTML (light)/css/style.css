@@ -53,7 +53,7 @@ background:wheat !important;
 
 body {
 	display:none;
-	font-family: Montserrat;
+	font-family: 'Montserrat' !important;
 	font-size: 13px;
 	font-weight:500;
 	color: #ddd;
@@ -3451,13 +3451,13 @@ outline: none;
 
 p.lead,
 .intro{
-	font-size:12px;
+	font-size:14px;
 	font-weight:500;
 	line-height:1.7em;
 	color: white 
 	}
 .intro2{
-	font-size:16px;
+	font-size:18px;
 	font-weight:500;
 	line-height:1.7em;
 	color: white 
