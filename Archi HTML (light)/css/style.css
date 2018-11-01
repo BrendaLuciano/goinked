@@ -5041,16 +5041,16 @@ display:table;
 	}
 	
 	header.side-header #mainmenu{
-	position:absolute;
+	position: fixed;
 	background:#000;
 	margin:0;
 	top:60px;
 	left:0;
-	width:100%;
+	width:50%;
 	}
 	
 	header.side-header #logo .logo{
-	display:none;
+	display: block;
 	}
 	
 	header.side-header #logo .logo-2{
