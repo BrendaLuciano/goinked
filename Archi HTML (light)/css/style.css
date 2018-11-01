@@ -1176,9 +1176,9 @@ border:solid 1px #ddd;
 
 	.de_light #contact_form input[type=text],.de_light #contact_form textarea,.de_light #contact_form input[type=email], .de_light #search
 		{
-		border:solid 1px #fff !important;
-		background:#f35252 !important;	
-		color:#fff !important;
+		border:solid 2px #f35252 !important;
+		background:#fff !important;	
+		color:#000 !important;
 		}
 
 	
@@ -2585,7 +2585,7 @@ border:solid 1px #ddd;
 	}
 	.social-icons i{
 	text-shadow:none;
-	color: #fff;
+	color: #f35252;
 	padding: 8px;
 	width: 28px;
 	height: 28px;
