@@ -1457,6 +1457,7 @@ border:solid 1px #ddd;
 	font-weight:bold;
 	text-transform:uppercase;
 	border:solid 1px #db2300;
+	border-radius: 20px !important;
 	padding:10px 30px 10px 30px;
 	}
 	a.btn-big:after{
