@@ -1170,7 +1170,7 @@ border:solid 1px #ddd;
 	color:#fff;
 	border:solid 1px white;
 	background:rgba(0,0,0,.2);
-	border-radius:0 !important;
+	border-radius:5 !important;
 	height:auto;
 	}
 
@@ -1191,6 +1191,7 @@ border:solid 1px #ddd;
 	background:#f35252;
 	color: white !important;
 	padding: 10px 30px 10px 30px;
+	border-radius: 20px;
 	}
 	
 	#contact_form input[type=submit]:hover{
@@ -1511,6 +1512,7 @@ border:solid 1px #ddd;
 	text-decoration:none;
 	text-transform:uppercase;
 	border:solid 2px white;
+	border-radius: 20px;
 	padding:10px 30px 10px 30px;
 	}
 	a.btn-slider:hover{
