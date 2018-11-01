@@ -1507,8 +1507,9 @@ border:solid 1px #ddd;
 	}
 	
 	a.btn-slider{
-	font-size:13px;
-	font-weight:bold;
+	font-size:15px;
+	font-weight: bolder;
+	font-family: 'Montserrat';
 	color:#f35252;
 	letter-spacing:3px;
 	line-height:normal;
