@@ -1177,7 +1177,7 @@ border:solid 1px #ddd;
 	.de_light #contact_form input[type=text],.de_light #contact_form textarea,.de_light #contact_form input[type=email], .de_light #search
 		{
 		border:solid 2px #f35252 !important;
-		background:#fff !important;	
+		background:none !important;	
 		color:#000 !important;
 		}
 
@@ -1190,6 +1190,7 @@ border:solid 1px #ddd;
 	#contact_form input[type=submit]{
 	background:#f35252;
 	color: white !important;
+	padding: 10px 30px 10px 30px;
 	}
 	
 	#contact_form input[type=submit]:hover{
@@ -5048,7 +5049,6 @@ display:table;
 	left:0;
 	width:50%;
 	}
-	
 	header.side-header #logo .logo{
 	display: block;
 	}
