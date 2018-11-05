@@ -1405,8 +1405,10 @@ border:solid 1px #ddd;
 	}
 	
 	.de_light .btn-line, .de_light a.btn-line{
-	border:solid 1px rgba(1,1,1,.2) !important;
-	color:#333;
+	background: #f35252;
+	color: white !important;
+	padding: 10px 30px 10px 30px;
+	border-radius: 20px;
 	}
 	
 	.text-light .btn-line, .text-light  a.btn-line{
