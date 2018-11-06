@@ -3782,7 +3782,7 @@ table thead {
 
 p.lead,
 .intro {
-	font-size: 14px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.7em;
 	color: black;
@@ -3793,7 +3793,7 @@ p.lead,
 	font-weight: 500;
 	font-style: bold;
 	line-height: 1.7em;
-	color: #f35252;
+	color: black;
 }
 
 .panel-group {
@@ -4859,9 +4859,10 @@ p {
 .side-bg .image-container {
 	height: 100%;
 	overflow: hidden;
-	padding: 0;
+	padding: 30px;
 	position: absolute;
 	background-size: cover !important;
+
 }
 
 .side-bg .background-image {
@@ -4879,7 +4880,7 @@ p {
 }
 
 .inner-padding {
-	padding: 0px 0 90px 0;
+	padding: 20px 0 90px 0;
 }
 
 .no-padding,
