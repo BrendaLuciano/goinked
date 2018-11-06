@@ -6419,7 +6419,8 @@ section.no-padding {
 }
 
 .section-gif-overlay {
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: black !important;
+	opacity: 10% !important;
 	background-image: url(images/gif-tattoo.gif);
 	background-blend-mode: screen multiply;
 }
