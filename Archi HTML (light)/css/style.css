@@ -4865,6 +4865,25 @@ p {
 
 }
 
+.gif-container {
+    position: relative;
+    width: 200px;
+}
+.after {
+    position: absolute;
+    top: 0;
+	left: 0;
+    width: 100vw;
+    height: 100%;
+    display: none;
+	color: #FFF;
+	display: block;
+    background: rgba(0, 0, 0, .5);
+}
+.gif-container:hover .after {
+    display: block;
+    background: rgba(0, 0, 0, .5);
+}
 .side-bg .background-image {
 	background-position: 50% 50% !important;
 	background-size: cover !important;
