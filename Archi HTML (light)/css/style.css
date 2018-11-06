@@ -1960,7 +1960,7 @@ h2.style-4 {
 
 .de_light .text-light h8 {
 	color: #f35252;
-	font-size: 32px !important;
+	font-size: 36px !important;
 }
 
 h3.title {
@@ -3791,6 +3791,7 @@ p.lead,
 .intro2 {
 	font-size: 18px;
 	font-weight: 500;
+	font-style: bold;
 	line-height: 1.7em;
 	color: #f35252;
 }
@@ -5085,7 +5086,7 @@ section.no-padding {
 
 
 .wow {
-	visibility: hidden;
+	visibility: visible !important;
 }
 
 
