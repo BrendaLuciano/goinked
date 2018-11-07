@@ -1633,7 +1633,7 @@ a.btn-line-black:hover {
 
 a.btn-slider {
 	font-size: 15px;
-	font-weight: bolder;
+	font-weight: regular !important;
 	font-family: 'Montserrat';
 	color: #f35252;
 	letter-spacing: 3px;
@@ -4878,7 +4878,11 @@ p {
     display: none;
 	color: #FFF;
 	display: block;
-    background: rgba(0, 0, 0, .5);
+	background: rgba(0, 0, 0, .5);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
 }
 .gif-container:hover .after {
     display: block;
