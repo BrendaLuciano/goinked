@@ -6476,12 +6476,18 @@ texto-gif {
 	padding-left: 80px !important;
 	padding-right: 80px !important;
 }
-icon-facts{
+
+icon-facts {
 	display: block;
-    font-size: 20px !important;
-    margin: 0 auto;
-    margin-bottom: 20px;
+	font-size: 20px !important;
+	margin: 0 auto;
+	margin-bottom: 20px;
 	width: 20px !important;
 	height: auto;
-    font-weight: lighter !important;	
+	font-weight: lighter !important;
+}
+
+.icon-instagram {
+	width: 10px;
+	height: auto;
 }
