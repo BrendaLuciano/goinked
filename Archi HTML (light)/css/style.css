@@ -4884,10 +4884,10 @@ p {
 	justify-content: center;
 
 }
-.gif-container:hover .after {
+/* .gif-container:hover .after {
     display: block;
     background: rgba(0, 0, 0, .5);
-}
+} */
 .side-bg .background-image {
 	background-position: 50% 50% !important;
 	background-size: cover !important;
