@@ -50,7 +50,7 @@
 /* ================================================== */
 
 *:not(class^='icon-') {
-	font-family: "Raleway", Arial, Helvetica, sans-serif !important;
+	font-family: "Montserrat" !important;
 }
 
 html {
