@@ -6491,17 +6491,20 @@ icon-facts {
 	width: 10px;
 	height: auto;
 }
-.contact-title{
-	font-size: 24px;
-	color: white !important;
-	text-align: center;
+
+.contact-title {
+	font-size: 28px;
+	color: #f35252 !important;
+	text-align: left;
 }
-.contact-text{
+
+.contact-text {
 	font-size: 16px;
 	color: white !important;
 	text-align: left;
 }
-.social-icons-align{
-	padding-bottom: 50px !important;
-	padding-left: 530px !important;
+
+.social-icons-align {
+	padding-top: 40px !important;
+	padding-left: 20px;
 }
