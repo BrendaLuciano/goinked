@@ -6464,14 +6464,14 @@ section#section-services span.id-color {
 }
 
 .align-button {
-	margin-left: 585px !important;
+	margin-left: 530px !important;
 	margin-top: 50px !important;
 	margin-bottom: 10px !important;
 }
 
 texto-gif {
 	color: white;
-	font-size: 18px;
+	font-size: 20px;
 	text-align: center !important;
 	padding-left: 80px !important;
 	padding-right: 80px !important;
@@ -6495,7 +6495,7 @@ icon-facts {
 .contact-title {
 	font-size: 28px;
 	color: #f35252 !important;
-	text-align: left;
+	text-align: left !important;
 }
 
 .contact-text {
@@ -6507,4 +6507,9 @@ icon-facts {
 .social-icons-align {
 	padding-top: 40px !important;
 	padding-left: 20px;
+}
+.logo-footer{
+	width: 10%;
+	height: auto;
+	margin-left: 800px !important;
 }
