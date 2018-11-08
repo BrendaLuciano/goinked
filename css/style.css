@@ -6491,3 +6491,17 @@ icon-facts {
 	width: 10px;
 	height: auto;
 }
+.contact-title{
+	font-size: 24px;
+	color: white !important;
+	text-align: center;
+}
+.contact-text{
+	font-size: 16px;
+	color: white !important;
+	text-align: left;
+}
+.social-icons-align{
+	padding-bottom: 50px !important;
+	padding-left: 530px !important;
+}
