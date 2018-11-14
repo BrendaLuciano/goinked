@@ -1294,13 +1294,13 @@ header.smaller.header-scroll:not(.autoshow) {
 
 #contact_form input[type=submit] {
 	background: #f35252;
-	color: black !important;
+	color: white !important;
 	padding: 10px 30px 10px 30px;
 	border-radius: 20px;
 }
 
 #contact_form input[type=submit]:hover {
-	color: black !important;
+	color: white !important;
 	background: #db2300;
 	border-color: #db2300;
 }
