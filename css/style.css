@@ -6468,7 +6468,12 @@ section#section-services span.id-color {
 	margin-top: 50px !important;
 	margin-bottom: 10px !important;
 }
-
+.text-button {
+	margin-right: 50px !important;
+	margin-left: 60px !important;
+	margin-top: 50px !important;
+	margin-bottom: 10px !important;
+}
 texto-gif {
 	color: white;
 	font-size: 20px;
