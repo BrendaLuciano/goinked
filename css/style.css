@@ -6547,8 +6547,8 @@ icon-facts {
 	.our-team:hover .pic:before{ top: 0; }
 	.our-team:hover .pic:after{ bottom: 0; }
 	.our-team .pic img{
-	    width: 100%;
-	    height: auto;
+	    width: 100% !important;
+	    height: auto !important;
 	}
 	.our-team .social{
 	    width: 100%;
