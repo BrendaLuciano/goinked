@@ -6448,13 +6448,6 @@ section.no-padding {
 	height: 45vw;
 }
 
-.section-gif-overlay {
-	background-color: black !important;
-	opacity: 10% !important;
-	background-image: url(images/gif-tattoo.gif);
-	background-blend-mode: screen multiply;
-}
-
 .inner-padding {
 	padding-bottom: 0px;
 }
@@ -6464,7 +6457,7 @@ section#section-services span.id-color {
 }
 
 .align-button {
-	margin-left: 570px !important;
+	margin-left: 590px !important;
 	margin-top: 50px !important;
 	margin-bottom: 10px !important;
 }
