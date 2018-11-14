@@ -3338,7 +3338,7 @@ a.btn-right {
 }
 
 .team img.team-pic {
-	width: 100%;
+	width: 50%;
 	height: auto;
 }
 
@@ -6511,7 +6511,8 @@ icon-facts {
 	height: auto;
 }
 .video-size {
-	
+	width: 100vw !important;
+	height: 40vw !important;
 }
 
 .our-team{
@@ -6547,7 +6548,7 @@ icon-facts {
 	.our-team:hover .pic:before{ top: 0; }
 	.our-team:hover .pic:after{ bottom: 0; }
 	.our-team .pic img{
-	    width: 100% !important;
+	    width: 50% !important;
 	    height: auto !important;
 	}
 	.our-team .social{
