@@ -3787,14 +3787,14 @@ table thead {
 
 p.lead,
 .intro {
-	font-size: 20px;
+	font-size: 16px;
 	font-weight: 500;
 	line-height: 1.7em;
 	color: black;
 }
 
 .intro2 {
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: 500;
 	font-style: bold;
 	line-height: 1.7em;
@@ -4864,7 +4864,7 @@ p {
 .side-bg .image-container {
 	height: 100%;
 	overflow: hidden;
-	padding: 30px;
+	padding: 80px;
 	position: absolute;
 	background-size: cover !important;
 
