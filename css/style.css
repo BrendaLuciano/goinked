@@ -3790,7 +3790,7 @@ p.lead,
 	font-size: 16px;
 	font-weight: 500;
 	line-height: 1.7em;
-	color: black;
+	color: white;
 }
 
 .intro2 {
@@ -3798,7 +3798,7 @@ p.lead,
 	font-weight: 500;
 	font-style: bold;
 	line-height: 1.7em;
-	color: black;
+	color: white;
 }
 
 .panel-group {
@@ -6528,3 +6528,26 @@ h9 {
 	text-align: center;
 	letter-spacing: 2px;
 	font-weight: 300;
+}
+.button-section-2 {
+font-size: 15px;
+	font-weight: regular !important;
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+	color: white !important;
+	background-color: #f35252;
+	letter-spacing: 3px;
+	line-height: normal;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: solid 2px white;
+	border-radius: 20px;
+	padding: 10px 30px 10px 30px;
+	font-weight: 400;
+}
+
+.button-section-2:hover {
+	color: #fff !important;
+	background-color: #db2300 !important;
+	border-color: #db2300 !important;
+	border: solid 2px #db2300;
+}
