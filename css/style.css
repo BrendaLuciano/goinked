@@ -6543,6 +6543,8 @@ font-size: 15px;
 	border-radius: 20px;
 	padding: 10px 30px 10px 30px;
 	font-weight: 400;
+	transition: .5s ease-in-out;
+
 }
 
 .button-section-2:hover {
@@ -6550,4 +6552,5 @@ font-size: 15px;
 	background-color: #db2300 !important;
 	border-color: #db2300 !important;
 	border: solid 2px #db2300;
+	
 }
