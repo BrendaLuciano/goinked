@@ -6515,3 +6515,16 @@ icon-facts {
 	width: 100vw !important;
 	height: 40vw !important;
 }
+.background-time{
+	background-color: #f35252 !important;
+	padding-top: 5px !important;
+	padding-bottom: 40px !important;
+}
+h9 {
+	font-size: 32px;
+	font-family: "Raleway", Arial, Helvetica, sans-serif !important;
+	color: white !important;
+	margin: 0;
+	text-align: center;
+	letter-spacing: 2px;
+	font-weight: 300;
