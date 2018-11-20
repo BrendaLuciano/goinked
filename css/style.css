@@ -738,9 +738,9 @@ header.transparent.smaller.header-light #mainmenu>li>a {
 }
 
 .de_light #content {
-	background: #fff;
-}
+	background-image: url(../images/background/tattoo-slider-2.jpg);
 
+}
 
 #content {
 	background: #18191b;
@@ -6558,7 +6558,7 @@ font-size: 15px;
 #pricing{
 	width: 989px;
 	margin: 100px auto;
-	font-family: 'Open Sans', Helvetica;
+	font-family: inherit !important;
 }
 
 #pricing .price{
@@ -6579,17 +6579,18 @@ font-size: 15px;
 	color: rgb(255, 255, 255);
 }
 .alpha .header{
-	background: rgb(245, 166, 35);
+	background: #f35252;
 }
 .bravo .header{
-	background: rgb(246, 77, 77);
+	background: #db2300;
 }
 .charlie .header{
-	background: rgb(48, 219, 181);
+	background: #f35252;
 }
 .price{
 	width: 100%;
 	font-size: 60px;
+	font-family: inherit;
 	font-weight: 300;
 	display: block;
 	text-align: center;
@@ -6634,13 +6635,13 @@ button{
 	margin: 20px auto 35px;
 }
 .alpha button{
-	background: rgb(245, 166, 35);
+	background: #f35252;
 }
 .bravo button{
-	background: rgb(246, 77, 77);
+	background: #db2300;
 }
 .charlie button{
-	background: rgb(48, 219, 181);
+	background: #f35252;
 }
 .tip{
 	font-family: inherit;
