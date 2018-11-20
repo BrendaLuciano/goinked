@@ -6529,6 +6529,16 @@ h9 {
 	letter-spacing: 2px;
 	font-weight: 300;
 }
+h10{
+	font-size: 32px;
+	font-family: "Raleway", Arial, Helvetica, sans-serif !important;
+	color: white !important;
+	margin: 0;
+	text-align: center;
+	letter-spacing: 2px;
+	font-weight: 300;
+	margin-left: 350px;
+}
 .button-section-2 {
 font-size: 15px;
 	font-weight: regular !important;
@@ -6554,6 +6564,57 @@ font-size: 15px;
 	
 }
 
+.button-prices{
+	font-size: 15px;
+	font-weight: regular !important;
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+	color: white !important;
+	background-color: #f35252;
+	letter-spacing: 3px;
+	line-height: normal;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: solid 2px white;
+	border-radius: 10px;
+	padding: 10px 30px 10px 30px;
+	margin-left: 55px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	font-weight: 400;
+	transition: .5s ease-in-out;
+}
+.button-prices:hover{
+	color: #fff !important;
+	background-color: #db2300 !important;
+	border-color: #db2300 !important;
+	border: solid 2px #db2300;
+}
+
+.button-prices-2{
+	font-size: 15px;
+	font-weight: regular !important;
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+	color: white !important;
+	background-color: #db2300;
+	letter-spacing: 3px;
+	line-height: normal;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: solid 2px white;
+	border-radius: 10px;
+	padding: 10px 30px 10px 30px;
+	margin-left: 55px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	font-weight: 400;
+	transition: .5s ease-in-out;
+}
+.button-prices-2:hover{
+	color: #fff !important;
+	background-color: #f35252 !important;
+	border-color: #f35252 !important;
+	border: solid 2px #f35252;
+}
 
 #pricing{
 	width: 989px;
@@ -6608,7 +6669,7 @@ font-size: 15px;
 	list-style: none;
 	text-align: center;
 	color: rgb(138, 138, 138);
-	margin: 0;
+	margin: 15px;
 	padding: 0;
 }
 .features li{
@@ -6633,9 +6694,21 @@ button{
 	font-size: 15px;
 	text-transform: uppercase;
 	margin: 20px auto 35px;
-}
+	}
+	
 .alpha button{
+	color: rgb(255, 255, 255);
+	border: 0;
+	border-radius: 5px;
+	height: 40px;
+	width: 200px;
+	display: block;
+	font-weight: 700;
+	font-size: 15px;
+	text-transform: uppercase;
+	margin: 20px auto 35px;
 	background: #f35252;
+
 }
 .bravo button{
 	background: #db2300;
