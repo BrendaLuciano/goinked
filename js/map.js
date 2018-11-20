@@ -1,5 +1,5 @@
                     // When the window has finished loading create our google map below
-                    google.maps.event.addDomListener(window, 'load', init);
+                  
 
                     function init() {
                         // Basic options for a simple Google Map
