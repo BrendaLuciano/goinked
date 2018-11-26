@@ -3602,10 +3602,14 @@ object {
 	width: 100%;
 	min-height: 100%;
 	background: url(../images/dot-70.png);
+	background-color: black !important;
+    opacity: .9 !important;
 }
 
 .de-video-overlay.dotted {
 	background: url(../images/dotted.png);
+	background-color: black !important;
+    opacity: .9 !important;
 }
 
 .video-fixed {
