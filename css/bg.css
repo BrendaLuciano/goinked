@@ -44,6 +44,7 @@ background:url(../images/background/bg-subheader.jpg)top fixed;
 #section-blog {background:url(../images/background/bg-5.jpg) top fixed;}
 #section-coming-soon{ background:none; position:absolute; min-height:100%; width:100%;z-index:1;}
 #section-describe{background:#f35252;}
+#section-describe-2{background:url(../images/background/contato-filter.png) top fixed;}
 #section-download{background:url(../images/background/download-tatuador.png) top fixed;}
 #section-form{background:url(../images/background/contato-filter.png) top fixed;}
 #section-prices{background:url(../images/background/tattoo-slider-2.jpg) top fixed;}
