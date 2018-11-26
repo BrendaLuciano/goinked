@@ -1505,14 +1505,11 @@ a.btn-line {
 	text-decoration: none;
 
 }
-
-
 .btn-line,
 a.btn-line {
 	border: solid 1px rgba(255, 255, 255, .2) !important;
 	color: #fff;
 }
-
 .de_light .btn-line,
 .de_light a.btn-line {
 	background: #f35252;
@@ -1521,13 +1518,11 @@ a.btn-line {
 	border-radius: 20px;
 	transition: .5s;
 }
-
 .de_light .btn-line:hover,
 .de_light a.btn-line:hover {
 	color: #fff !important;
 	background: #db2300;
 }
-
 .text-light .btn-line,
 .text-light a.btn-line {
 	border: solid 1px rgba(255, 255, 255, .2) !important;
