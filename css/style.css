@@ -6516,9 +6516,14 @@ icon-facts {
 .background-time{
 	background-color: #f35252 !important;
 	padding-top: 5px !important;
-	padding-bottom: 40px !important;
+	padding-bottom: 100px !important;
 }
-h9 {
+.background-time-2{
+	background-color: #ffffff !important;
+	padding-top: 5px !important;
+	padding-bottom: 100px !important;
+}
+h9{
 	font-size: 32px;
 	font-family: "Raleway", Arial, Helvetica, sans-serif !important;
 	color: white !important;
