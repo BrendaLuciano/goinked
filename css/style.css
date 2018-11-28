@@ -5157,7 +5157,7 @@ section.no-padding {
 }
 
 #back-to-top:hover:before {
-	color: black !important;
+	color: #f35252 !important;
 }
 
 /* mouse scroll icon begin */
