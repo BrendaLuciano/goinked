@@ -107,7 +107,7 @@
 
         .profile-img {
             position: absolute;
-            top: 71%;
+            top: 60%;
             left: 50%;
             transform: translate(-50%, -50%);
         }
@@ -115,7 +115,7 @@
         .profile-title {
             text-align: center;
             position: relative;
-            top: -39px;
+            top: -70px;
             margin-bottom: -26px;
         }
 
