@@ -4863,7 +4863,7 @@ p {
 .side-bg .image-container {
 	height: 100%;
 	overflow: hidden;
-	padding: 55px;
+	padding-top: 82px !important;
 	position: absolute;
 	background-size: cover !important;
 
