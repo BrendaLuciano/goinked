@@ -6561,6 +6561,15 @@ h12{
 	letter-spacing: 2px;
 	font-weight: 500;
 }
+h13{
+	font-size: 32px;
+	font-family: "Raleway", Arial, Helvetica, sans-serif !important;
+	color: white !important;
+	margin: 0;
+	text-align: center;
+	letter-spacing: 2px;
+	font-weight: 300;
+}
 .button-section-2 {
 font-size: 15px;
 	font-weight: regular !important;
