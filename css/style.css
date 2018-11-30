@@ -6796,3 +6796,11 @@ button{
 	color: rgb(117, 117, 117);
 	margin: 10px 5px;
 }
+.box-info{
+	color: white !important;
+	border-top: 30px;
+	border-bottom: 30px;
+	border-right: 30px;
+	border-left: 30px;
+	
+}

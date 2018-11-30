@@ -52,7 +52,7 @@
         .myback-img {
             display: flex;
             justify-content: center;
-            height: 416px;
+            height: 286px;
             overflow: hidden;
             object-fit: cover;
             border-radius: .25rem;
