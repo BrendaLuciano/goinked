@@ -4863,7 +4863,7 @@ p {
 .side-bg .image-container {
 	height: 100%;
 	overflow: hidden;
-	padding-top: 82px !important;
+	padding-top: 158px !important;
 	position: absolute;
 	background-size: cover !important;
 
@@ -5372,7 +5372,6 @@ section.no-padding {
 	margin-bottom: -3px;
 }
 
-
 .separator {
 	line-height: 0.5;
 	text-align: center;
@@ -5382,9 +5381,7 @@ section.no-padding {
 .separator span {
 	display: inline-block;
 	position: relative;
-
 }
-
 .separator span:before,
 .separator span:after {
 	content: "";
@@ -5393,7 +5390,6 @@ section.no-padding {
 	top: 5px;
 	width: 300px;
 }
-
 .separator span:before {
 	right: 100%;
 	margin-right: 15px;
@@ -5419,6 +5415,53 @@ section.no-padding {
 .text-light .separator span:before,
 .text-light .separator span:after {
 	border-bottom: 1px solid rgba(255, 255, 255, .1);
+}
+
+
+.separator-2 {
+	line-height: 0.5;
+	text-align: center;
+	margin: 30px 0 30px 0;
+	color: white;
+}
+
+.separator-2 span {
+	display: inline-block;
+	position: relative;
+}
+.separator-2 span:before,
+.separator-2 span:after {
+	content: "";
+	position: absolute;
+	border-bottom: 1px solid white;
+	top: 5px;
+	width: 300px;
+}
+.separator-2 span:before {
+	right: 100%;
+	margin-right: 15px;
+}
+
+.separator-2 span:after {
+	left: 100%;
+	margin-left: 15px;
+}
+
+.separator-2 span i {
+	font-size: 6px;
+	padding: 0;
+	margin: 0;
+	float: none;
+}
+
+.de_light .separator-2 span:before,
+.de_light .separator-2 span:after {
+	border-bottom: 2px solid white;
+}
+
+.text-light .separator-2 span:before,
+.text-light .separator-2 span:after {
+	border-bottom: 1px solid white;
 }
 
 
