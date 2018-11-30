@@ -6559,7 +6559,7 @@ icon-facts {
 .background-time{
 	background-color: #f35252 !important;
 	padding-top: 5px !important;
-	padding-bottom: 100px !important;
+	padding-bottom: 86px !important;
 }
 .background-time-2{
 	background-color: #ffffff !important;
@@ -6797,10 +6797,20 @@ button{
 	margin: 10px 5px;
 }
 .box-info{
-	color: white !important;
-	border-top: 130px;
-	border-bottom: 130px;
-	border-right: 130px;
-	border-left: 130px;
-	
+    background-color: white;
+    width: 231px;
+	height: 121px;
+	color: black;
+	font-style: inherit;
+	font-weight: 400px;
+	padding-top: 15px;
+}
+.box-info-2{
+    background-color: #f35252;
+    width: 231px;
+	height: 121px;
+	color: white;
+	font-style: inherit;
+	font-weight: 400px;
+	padding-top: 15px;
 }
