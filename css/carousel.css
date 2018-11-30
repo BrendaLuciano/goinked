@@ -52,7 +52,7 @@
         .myback-img {
             display: flex;
             justify-content: center;
-            height: 317px;
+            height: 377px;
             overflow: hidden;
             object-fit: cover;
             border-radius: .25rem;
@@ -115,7 +115,7 @@
         .profile-title {
             text-align: center;
             position: relative;
-            top: -56px;
+            top: -106px;
             margin-bottom: -112px;
         }
 
