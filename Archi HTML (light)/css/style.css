@@ -49,9 +49,11 @@
 /* body */
 /* ================================================== */
 
+
 *:not(class^='icon-') {
-	font-family: "Raleway", Arial, Helvetica, sans-serif !important;
+	font-family: "Montserrat" !important;
 }
+
 
 html {
 	background: wheat !important;
@@ -406,7 +408,7 @@ header.smaller:not(.header-bottom).header-light {
 /* navigation */
 /* ================================================== */
 #mainmenu {
-	font-family: "Raleway", Arial, Helvetica, sans-serif;
+	font-family: "Montserrat" !important;
 	float: right;
 	font-size: 11px;
 	font-weight: 400;
@@ -1691,7 +1693,7 @@ a.btn-custom:hover {
 }
 
 .de_count h3 {
-	font-family: "Dosis", Arial, Helvetica, sans-serif;
+	font-family: "Montserrat";
 	font-size: 40px;
 	font-weight: 600;
 }
@@ -1842,7 +1844,7 @@ h4,
 h5,
 h6 {
 	color: #000;
-	font-family: 'Dosis', Arial, Helvetica, sans-serif;
+	font-family: "Montserrat";
 	font-weight: 400;
 }
 
@@ -1893,7 +1895,7 @@ h1.slogan_big {
 h1.title {
 	font-size: 54px;
 	letter-spacing: 5px;
-	font-family: 'Montserrat', Arial, Helvetica, sans-serif !important;
+	font-family: "Montserrat" !important;
 	margin-left: 90px !important;
 }
 
@@ -2046,7 +2048,7 @@ span.teaser {
 
 .de_light h7 {
 	color: white !important;
-	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	font-family: "Montserrat";
 	font-size: 32px;
 	margin: 0;
 	text-align: center;
@@ -3772,7 +3774,7 @@ object {
 }
 
 .label {
-	font-family: "Roboto", Arial, Helvetica, sans-serif;
+	font-family: "Montserrat";
 }
 
 table thead {
@@ -3897,7 +3899,7 @@ blockquote.s1 {
 	color: #555;
 	font-size: 16px;
 	line-height: 20px;
-	font-family: "Roboto", Arial, Helvetica, sans-serifr;
+	font-family: "Montserrat";
 	padding: 10px 20px 0px 60px;
 	font-weight: 700;
 	display: block;
@@ -4958,7 +4960,7 @@ section.no-padding {
 }
 
 .teaser {
-	font-family: "Raleway", Arial;
+	font-family: "Montserrat";
 	font-size: 15px;
 	font-weight: 300;
 }
@@ -5338,7 +5340,7 @@ section.no-padding {
 
 .de_review blockquote {
 	border: none;
-	font-family: "Roboto Slab", Georgia, "Times New Roman", Times, serif;
+	font-family: "Montserrat";
 }
 
 .de_review .de_nav li span {
