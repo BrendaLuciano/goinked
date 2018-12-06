@@ -6631,15 +6631,17 @@ icon-facts {
 }
 
 .contact-title {
-	font-size: 28px;
+	font-size: 32px;
 	color: #f35252 !important;
-	text-align: left !important;
+    text-align: left !important;
+    font-family: "Raleway";
 }
 
 .contact-text {
-	font-size: 16px;
+	font-size: 18px;
 	color: white !important;
-	text-align: left;
+    text-align: left;
+    font-family: "Raleway";
 }
 
 .social-icons-align {
