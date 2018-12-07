@@ -41,8 +41,10 @@
 
 /* ================================================== */
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,200,300,500,600,700,800);
-
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    src: local('Raleway'), url(http://fonts.googleapis.com/css?family=Raleway:400,200,300,500,600,700,800) format('woff');
 /* ================================================== */
 /* body */
 /* ================================================== */
