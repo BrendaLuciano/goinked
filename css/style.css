@@ -1011,7 +1011,7 @@ header.smaller.header-scroll:not(.autoshow) {
 .blog-list .date-box .month,
 .blog-read .date-box .month {
 	color: #fff;
-	font-family: "Open Sans";
+	font-family: "Raleway";
 	font-weight: 600;
 	letter-spacing: 16px;
 	padding: 7px 0 7px 0;
@@ -3324,7 +3324,7 @@ a.btn-right {
 }
 
 .expand h4 {
-	font-family: "Open Sans";
+	font-family: "Raleway";
 	font-size: 16px;
 	cursor: pointer;
 	display: block;
@@ -5000,7 +5000,7 @@ section.no-padding {
 }
 
 .teaser {
-	font-family: "Raleway", Raleway;
+	font-family: "Raleway";
 	font-size: 15px;
 	font-weight: 300;
 }
@@ -6827,7 +6827,7 @@ font-size: 17px;
 #pricing{
 	width: 989px;
 	margin: 100px auto;
-	font-family: inherit !important;
+	font-family: "Raleway" !important;
 }
 
 #pricing .price{
@@ -6861,7 +6861,7 @@ font-size: 17px;
 .price{
 	width: 100%;
 	font-size: 15px;
-	font-family: inherit;
+	font-family: "Raleway";
 	font-weight: 300;
 	display: block;
 	text-align: center;
@@ -6929,7 +6929,7 @@ button{
 	background: #f35252;
 }
 .tip{
-	font-family: inherit;
+	font-family: "Raleway";
 	position: absolute;
 	color: rgb(117, 117, 117);
 	margin: 10px 5px;
