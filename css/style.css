@@ -6785,11 +6785,11 @@ font-size: 17px;
 	text-transform: uppercase;
 	border: solid 2px white;
 	border-radius: 10px;
-	padding: 10px 30px 10px 30px;
+	padding: 12px 30px 12px 30px;
 	margin-left: 55px;
 	margin-top: 15px;
 	margin-bottom: 20px;
-	font-weight: 400;
+	font-weight: 650;
 	transition: .5s ease-in-out;
 }
 .button-prices-2:hover{
