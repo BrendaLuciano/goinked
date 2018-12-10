@@ -43,7 +43,7 @@ background:url(../images/background/bg-subheader.jpg)top fixed;
 #section-welcome-5{background:url(../images/background/bg-14.jpg) top fixed;}
 #section-blog {background:url(../images/background/bg-5.jpg) top fixed;}
 #section-coming-soon{ background:none; position:absolute; min-height:100%; width:100%;z-index:1;}
-#section-describe{background:#f35252;}
+#section-describe-1{background:url(../images/background/marca1.jpg)}
 #section-describe-2{background:url(../images/background/criado.jpg) top fixed;}
 #section-download{background:url(../images/background/baixe.jpg) top fixed;}
 #section-form{background:url(../images/background/contato.jpg) top fixed;}

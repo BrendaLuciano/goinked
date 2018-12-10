@@ -44,7 +44,7 @@
 @font-face {
     font-family: 'Raleway';
     font-style: normal;
-    src: local('Raleway'), url(https://fonts.googleapis.com/css?family=Raleway:400,200,300,500,600,700,800) format('woff');
+    src: local('Raleway'), url('../fonts/Raleway/OFL.txt');
 }
     /* ================================================== */
 /* body */
@@ -3821,14 +3821,14 @@ table thead {
 
 p.lead,
 .intro {
-	font-size: 17px;
+	font-size: 19px;
 	font-weight: 500;
 	line-height: 1.7em;
 	color: white;
 }
 
 .intro2 {
-	font-size: 17px;
+	font-size: 19px;
 	font-weight: 500;
 	font-style: bold;
 	line-height: 1.7em;
@@ -4909,7 +4909,7 @@ p {
 .side-bg .image-container {
 	height: 100%;
 	overflow: hidden;
-	padding-top: 158px !important;
+	padding-top: 200px !important;
 	position: absolute;
 	background-size: cover !important;
 
