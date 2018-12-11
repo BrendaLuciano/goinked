@@ -44,7 +44,22 @@
 @font-face {
     font-family: 'Raleway';
     font-style: normal;
-    src: local('Raleway'), url('../fonts/Raleway/OFL.txt');
+    src: local('Raleway'), url('../fonts/Raleway/Raleway-Regular.ttf');
+}
+@font-face {
+    font-family: 'Raleway';
+    font-style: bold;
+    src: local('Raleway'), url('../fonts/Raleway/Raleway-Black.ttf');
+}
+@font-face {
+    font-family: 'Raleway';
+    font-style: bold;
+    src: local('Raleway'), url('../fonts/Raleway/Raleway-Bold.ttf');
+}
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    src: local('Raleway'), url('../fonts/Raleway/Raleway-Italic.ttf');
 }
     /* ================================================== */
 /* body */
