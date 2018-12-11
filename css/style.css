@@ -6769,12 +6769,12 @@ font-size: 17px;
 	font-weight: regular !important;
 	font-family: "Raleway";
 	color: white !important;
-	background-color: black;
+	background-color: #f35252;
 	letter-spacing: 3px;
 	line-height: normal;
 	text-decoration: none;
 	text-transform: uppercase;
-	border: solid 2px black;
+	border: solid 2px #f35252;
 	border-radius: 10px;
 	padding: 10px 30px 10px 30px;
 	margin-left: 55px;
@@ -6821,12 +6821,12 @@ font-size: 17px;
 	font-weight: regular !important;
 	font-family: "Raleway";
 	color: white !important;
-	background-color: black;
+	background-color: #f35252;
 	letter-spacing: 3px;
 	line-height: normal;
 	text-decoration: none;
 	text-transform: uppercase;
-	border: solid 2px black;
+	border: solid 2px #f35252;
 	border-radius: 10px;
 	padding: 10px 30px 10px 30px;
 	margin-left: 55px;
@@ -6868,13 +6868,13 @@ font-size: 17px;
 	color: rgb(255, 255, 255);
 }
 .alpha .header{
-	background: black;
+	background: #f35252;
 }
 .bravo .header{
 	background: #db2300;
 }
 .charlie .header{
-	background: black;
+	background: #f35252;
 }
 .price{
 	width: 100%;
