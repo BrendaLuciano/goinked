@@ -6878,32 +6878,32 @@ font-size: 17px;
 }
 .price{
 	width: 100%;
-	font-size: 15px;
+	font-size: 30px;
 	font-family: "Raleway";
-	font-weight: 300;
+	font-weight: 600;
 	display: block;
 	text-align: center;
 	padding: 0 0 30px;
 }
 .name{
 	width: 100%;
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: 700;
 	display: block;
     text-align: center;
-    padding: 30px 0 10px;
-}
+    padding: 30px 0 10px; 
+} 
 .features{
 	list-style: none;
 	text-align: center;
 	color: rgb(138, 138, 138);
-	margin: 15px;
+	margin: 75px;
 	padding: 0;
 }
 .features li{
 	margin: 0 35px;
 	padding: 20px 15px;
-    width: 200px;
+    width: 400px;
     color: black;
 }
 .features li:not(:last-child){
