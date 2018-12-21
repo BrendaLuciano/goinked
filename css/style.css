@@ -6738,6 +6738,16 @@ h15{
 	letter-spacing: 2px;
 	font-weight: 500;
 }
+h16{
+	font-size: 28px;
+	font-family: "Raleway";
+	color: #f35252 !important;
+	margin: 0;
+	text-align: center;
+	letter-spacing: 2px;
+	font-weight: 400;
+	margin-left: 10px;
+}
 
 .button-section-2 {
 font-size: 17px;
@@ -6969,4 +6979,7 @@ button{
 	font-style: inherit;
 	font-weight: 400px;
 	padding-top: 15px;
+}
+.button-21 {
+    margin-left: 100px !important;
 }
