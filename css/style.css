@@ -6983,3 +6983,11 @@ button{
 .button-21 {
     margin-left: 150px !important;
 }
+
+.title-tattoos {
+	margin-top: 0;
+	font-size: 20px;
+	letter-spacing: 3px;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
