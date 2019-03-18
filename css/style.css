@@ -4164,9 +4164,7 @@ a:hover,
 	overflow: hidden;
 }
 
-.carousel-item {
-	width: 100%;
-}
+
 
 .carousel-item img {
 	width: 100%;
@@ -4460,10 +4458,14 @@ margin:5px;
 	width: 50%;
 }
 
-
-
+.img-row{
+    display: flex;
+}
 @media only screen and (max-width : 768px) {
-
+    .img-row{
+        display: inline;
+        flex-direction: column;
+    }
 	.w1,
 	.w2,
 	.w3,
