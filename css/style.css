@@ -6673,7 +6673,8 @@ icon-facts {
 }
 .video-size {
 	width: 100vw !important;
-	height: 40vw !important;
+    height: 40vw !important;
+    display: block;
 }
 .background-time{
 	background-color: #f35252 !important;
