@@ -6675,6 +6675,10 @@ icon-facts {
 	width: 100vw !important;
     height: 40vw !important;
     display: block;
+    max-height: 100%;
+    max-width: 100%;
+    left: 0 !important;
+    top: 0 !important;
 }
 .background-time{
 	background-color: #f35252 !important;
