@@ -29,7 +29,7 @@
 				typeof base[name] == 'function' ?
 				(function(name, fn){
 					return function() {
-						var __super = this._super;
+						var __super = this.super;
 
 						// Add a new ._super() method that is the same method
 						// but on the super-class
